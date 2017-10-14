@@ -1,9 +1,10 @@
 # DSG_Recruitment
 Mushroom Data Set
+
 It is the analysis of the mushroom data set where we were expected to classify the mushroom categories into two categories i.e. edible 
 or poisonous.The dataset has 25 attributes including the target variable class.It had two continuous variables radius and weight.
-So first after performing the library and dataset imports, I have performed exploratory data analysis first performing a univariate analysis
-and then a bi-variate analysis of all the attributes.
+So first after performing the library and dataset imports, I have performed exploratory data analysis. F\
+First performing a univariate analysis and then a bi-variate analysis of all the attributes.
 For the univariate analysis first analysing the continuous variable, first using the describe() method on the dataset I found out the mean,
 standard deviation and other statistical quantities.After that I performed some visual analysis by plotting histograms,jointplot and boxplots.
 After the visualisation we could infer about the outliers and also comment about the correlation between the two continuous variables.
